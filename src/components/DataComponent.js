@@ -22,4 +22,4 @@ const imageData = ()=>{
     return data;
   }
 
-  export default imageData;
+  export default imageData();
